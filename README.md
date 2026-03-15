@@ -2,7 +2,7 @@
 
 # 👨‍💻 Yusuf (frosworn)
 **Software Developer & Cybersecurity Researcher**
-
+ 
 Çok yönlü bir geliştirici olarak; düşük seviyeli sistem programlamadan modern mobil uygulamalara, ağ güvenliğinden ticari otomasyon sistemlerine kadar geniş bir yelpazede çözümler üretiyorum. Yazılımın hem mutfağına (C) hem de vitrinine (JS/CSS) hakim bir yaklaşımla projelerimi geliştiriyorum.
 
 ---
