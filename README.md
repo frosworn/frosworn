@@ -25,9 +25,9 @@
 
 ### 📂 Öne Çıkan Projeler
 
-* **[Domain Tracker](https://github.com/frosworn/pro-domain-tracker):** Gerçek zamanlı WHOIS sorgusu ve RDAP API fallback desteği sunan gelişmiş alan adı takip sistemi.
-* **Masa Yönetim Sistemi:** İşletmeler için geliştirilmiş, Python & PyQt tabanlı gerçek zamanlı masa ve finansal takip otomasyonu.
-* **Ağ Tabanlı Koruma Sistemi:** Cihazların ağ konumuna göre tetiklenen, uzaktan erişim ve anlık bildirim özellikli kişisel güvenlik yazılımı.
+* **[Domain Tracker](https://github.com/frosworn/domain-tracker):** Gerçek zamanlı WHOIS sorgusu ve RDAP API fallback desteği sunan gelişmiş alan adı takip sistemi.
+* **[Masa Yönetim Sistemi]:** İşletmeler için geliştirilmiş, Python & PyQt tabanlı gerçek zamanlı masa ve finansal takip otomasyonu.
+* **[Ağ Tabanlı Koruma]Sistemi(https://github.com/frosworn/Sentinel-Secure-Core-Guvenlik-Cekirdegi-):** Cihazların ağ konumuna göre tetiklenen, uzaktan erişim ve anlık bildirim özellikli kişisel güvenlik yazılımı.
 
 ---
 
