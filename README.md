@@ -45,4 +45,4 @@ Ticari gizlilik ve siber güvenlik stratejileri gereği; **Altyapıdan Bağıms�
 ---
 
 * **E-posta:** [yusufcicekgil06@gmail.com](mailto:yusufcicekgil06@gmail.com)
-* * **Portfolyo:** ⏳ *Çok Yakında Yayında!*
+* **Portfolyo:** ⏳ *Çok Yakında Yayında!*
