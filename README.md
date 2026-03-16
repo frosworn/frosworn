@@ -46,4 +46,4 @@ Ticari gizlilik ve siber güvenlik stratejileri gereği; **Altyapıdan Bağıms�
 
 * **E-posta:** [GÖNDER](mailto:yusufcicekgil06@gmail.com)
 * **Portfolyo:** ⏳ *Çok Yakında Yayında!*
-* LİNKEDLN:[TIKLA](https://www.linkedin.com/in/yusuf-cicekgil/)
+* LİNKEDLN: [TIKLA](https://www.linkedin.com/in/yusuf-cicekgil/)
